@@ -1,0 +1,4 @@
+container_path: /home/ec2-user/react
+container_name: cla_react
+image_name: clarusway/react---
+
