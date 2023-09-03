@@ -5,8 +5,8 @@ filters:
   tag:stack: ansible_project
 keyed_groups:
   - key: tags.Name
-  - prefix: my
-  - separator: "-"
+    prefix: my
+    separator: "-"
   - key: tags.environment
 compose:
   ansible_host: public_ip_address
