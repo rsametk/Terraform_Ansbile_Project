@@ -6,7 +6,7 @@ filters:
 keyed_groups:
   - key: tags.Name
   - prefix: my
-  - separator: -
+  - separator: "-"
   - key: tags.environment
 compose:
   ansible_host: public_ip_address
