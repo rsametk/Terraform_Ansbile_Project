@@ -1,0 +1,4 @@
+- import_playbook: install_docker.yml
+- import_playbook: docker_postgre_import.yml
+- import_playbook: docker_nodejs_import.yml
+- import_playbook: docker_react_import.yml
